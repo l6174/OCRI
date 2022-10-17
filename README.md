@@ -1,4 +1,4 @@
-# One Click Recovery Installer
+# One Click Recovery Installer (OCRI)
 
 ## [DOWNLOAD](https://github.com/l6174/OCRI/releases/)
 
