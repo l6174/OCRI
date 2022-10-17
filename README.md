@@ -19,7 +19,7 @@
 ### Windows:
 >1. Extract the downloaded zip
 
->2. Copy your desired recovery img to the folder
+>2. Copy your desired ```recovery.img``` to the folder
 
 >3. Connect your phone through USB
 
@@ -27,7 +27,7 @@
 ### Linux:
 >1. Extract the downloaded zip
 
->2. Copy your desired recovery img to the folder
+>2. Copy your desired ```recovery.img``` to the folder
 
 >3. Connect your phone through USB
 
