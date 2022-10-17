@@ -23,7 +23,7 @@
 
 >3. Connect your phone through USB
 
->4. Double click on OCRI.bat file
+>4. Double click on ```OCRI.bat``` file
 ### Linux:
 >1. Extract the downloaded zip
 
