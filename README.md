@@ -33,7 +33,7 @@
 
 >4. Right click > Open terminal here
 
->5. Execute ```./OCRI.sh```
+>5. Execute ```sh OCRI.sh```
 
 ## Credits:
 [L](https://t.me/detective_ryuzaki) for making.
