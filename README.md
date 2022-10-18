@@ -15,7 +15,7 @@
 
 >Enabled USB debugging (No need if on fastboot mode).
 
-##[Instructions](https://github.com/l6174/OCRI/blob/main/Instructions.md)
+## [Instructions](https://github.com/l6174/OCRI/blob/main/Instructions.md)
 
 ## Credits:
 [L](https://t.me/detective_ryuzaki) for making.
