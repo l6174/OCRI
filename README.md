@@ -13,27 +13,9 @@
 ## Prerequisties:
 >Unlocked Bootloader
 
->Enabled USB debugging.
+>Enabled USB debugging (No need if on fastboot mode).
 
-## Instructions:
-### Windows:
->1. Extract the downloaded zip
-
->2. Copy your desired ```recovery.img``` to the folder
-
->3. Connect your phone through USB
-
->4. Double click on ```OCRI.bat``` file
-### Linux:
->1. Extract the downloaded zip
-
->2. Copy your desired ```recovery.img``` to the folder
-
->3. Connect your phone through USB
-
->4. Right click > Open terminal here
-
->5. Execute ```sh OCRI.sh```
+##[Instructions](https://github.com/l6174/OCRI/blob/main/Instructions.md)
 
 ## Credits:
 [L](https://t.me/detective_ryuzaki) for making.
