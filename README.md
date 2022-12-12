@@ -3,17 +3,17 @@
 ## [DOWNLOAD](https://github.com/l6174/OCRI/releases/)
 
 ## Info:
->One Click Recovery Installer (OCRI) can any install RUI-2 recovery in just few simple steps.
+- One Click Recovery Installer (OCRI) can any install RUI-2 recovery in just few simple steps.
 
 ## Notes:
->Only for RUI-2 based recoveries.
+- Only for RUI-2 based recoveries.
 
->Works on any RUI-2 recovery.
+- Works on any RUI-2 recovery.
 
 ## Prerequisties:
->Unlocked Bootloader
+- Unlocked Bootloader
 
->Enabled USB debugging (No need if on fastboot mode).
+- Enabled USB debugging (No need if on fastboot mode).
 
 ## Instructions : [Click Here](Instructions.md)
 
